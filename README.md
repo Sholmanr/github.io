@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 Simjae Holman-Rayos
 #####Novi, MI| (248) 219-4052 | https://www.linkedin.com/in/simjae-holman-rayos/
 
